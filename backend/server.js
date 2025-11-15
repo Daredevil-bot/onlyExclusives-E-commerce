@@ -6,7 +6,6 @@ const fs = require('fs')   //using for autoloading of routes
 const bodyParser = require('body-parser');
 require("dotenv").config()
 
-
 const app = express();
 
 //the below steps shoe how to connect database with mongoose all are necessary steps
