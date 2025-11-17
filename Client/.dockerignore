@@ -5,12 +5,7 @@ node_modules
 build/
 
 # Env files (never embed secrets in Docker image)
-.env
-.env.local
-.env.production
-.env.development
-.env.docker
-.env.*
+
 
 # Git files
 .git
